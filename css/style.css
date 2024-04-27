@@ -1,0 +1,18 @@
+body{
+    color: darkslateblue;
+}
+
+h1{
+    text-align: center;
+    font-size: 1.4em;
+}
+h2 {
+    color: #6594e0;/*文字色*/
+    /*線の種類（点線）2px 線色*/
+    border-bottom: dashed 2px #6594e0;
+  }
+
+header{
+    text-align: center;
+    padding: 2em;
+}
